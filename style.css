@@ -43,6 +43,10 @@ body {
     margin-top: 3.6rem;
 }
 
+img{
+    width: 100%;
+}
+
 .advice-box {
     width: 54.2rem;
     max-height: 40rem;
